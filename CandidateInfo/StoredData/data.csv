@@ -1,0 +1,3 @@
+Email,FirstName,LastName,Phone,CallingTime,LinkedIn,GitHub,Comment
+user1@example.com,string,string,string,11/12/2022 09:19:32,string,string,stringEmail
+user@example.com,string,string,string,NULL,string,string,comment
